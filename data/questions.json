@@ -1,0 +1,80 @@
+[
+  {
+    "type": "mcq",
+    "prompt": "What is the capital of France?",
+    "options": ["Berlin", "London", "Paris", "Madrid"],
+    "answer": "Paris",
+    "difficulty": "easy"
+  },
+  {
+    "type": "true_false",
+    "prompt": "The Earth is flat.",
+    "answer": "False",
+    "difficulty": "easy"
+  },
+  {
+    "type": "fill_blank",
+    "prompt": "The chemical symbol for water is _____.",
+    "answer": "H2O",
+    "difficulty": "easy"
+  },
+  {
+    "type": "mcq",
+    "prompt": "Which number is even?",
+    "options": ["3", "7", "10", "9"],
+    "answer": "10",
+    "difficulty": "easy"
+  },
+  {
+    "type": "mcq",
+    "prompt": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Shakespeare", "Dickens", "Austen", "Hemingway"],
+    "answer": "Shakespeare",
+    "difficulty": "medium"
+  },
+  {
+    "type": "true_false",
+    "prompt": "The square root of 16 is 4.",
+    "answer": "True",
+    "difficulty": "medium"
+  },
+  {
+    "type": "fill_blank",
+    "prompt": "The largest planet in our solar system is _____.",
+    "answer": "Jupiter",
+    "difficulty": "medium"
+  },
+  {
+    "type": "mcq",
+    "prompt": "Which is a prime number?",
+    "options": ["4", "6", "9", "11"],
+    "answer": "11",
+    "difficulty": "medium"
+  },
+  {
+    "type": "mcq",
+    "prompt": "What is the value of Pi (approx)?",
+    "options": ["2.14", "3.14", "4.13", "1.34"],
+    "answer": "3.14",
+    "difficulty": "hard"
+  },
+  {
+    "type": "true_false",
+    "prompt": "Light travels faster than sound.",
+    "answer": "True",
+    "difficulty": "hard"
+  },
+  {
+    "type": "fill_blank",
+    "prompt": "The process by which plants make food is called _____.",
+    "answer": "Photosynthesis",
+    "difficulty": "hard"
+  },
+  {
+    "type": "mcq",
+    "prompt": "Who developed the theory of relativity?",
+    "options": ["Newton", "Einstein", "Tesla", "Curie"],
+    "answer": "Einstein",
+    "difficulty": "hard"
+  }
+] 
